@@ -7,5 +7,6 @@ This guide will include a simpler version using a USB encoder but no whammy bar 
 a more complex version using an arduino pro micro and a custom PCB I designed to make it a bit easier and less destructive.
 Using the arduino pro micro version will allow you to use the whammy bar.
 
- All designs and code used will be avalible here.
+All designs and code used will be avalible here.
  
+Check out the wiki to get started
